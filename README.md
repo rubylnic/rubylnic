@@ -13,7 +13,6 @@ Passionate about web development, travelling and pets 🐶.
 
 ## About me
 I am 25 years old and I've been a front-end developer since 2019, I'm good at adaptive layout, html, CSS and js. I'm actively learning and practicing react and typescript respectively. Before starting my frontend career I had been an English teacher for over 5 years (abroad as well), so it's not a problem for me to communicate in English.
-I understand that I can achive and learn much more, so I'm searching for a job where I can do my best. I'm quite a fast learner If I have practice. If I don't understand something I try to google it first then I ask for help. I don't give up and try to do everything well. I'm good at team work, I've worked together with Backend developers, designers and SEO specialists.
 
 ## What I know and can use
 * HTML
@@ -35,7 +34,7 @@ I understand that I can achive and learn much more, so I'm searching for a job w
 ## Experience
 * Internship in [Liga A](https://ligaa.agency/) for half a year
 * Work in [Webenergy](https://webenergy-it.ru/) Web Studio as a Frontend Developer (1 year)
-* Work in [Softwise](https://softwise.ru/) Web Studio as a Frontend Developer (From January 2022)
+* Work in [Softwise](https://softwise.ru/) as a Frontend Developer (From January 2022)
 
 ## Education
 * Bachelors Degree in Linguistics at [Herzen University](https://www.herzen.spb.ru/) '18
