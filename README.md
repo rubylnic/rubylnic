@@ -10,6 +10,7 @@ Passionate about web development, travelling and pets 🐶.
 * **Mobile Phone (and also Whatsapp and Telegram)** : +79516876369
 * **E-mail** : ksenia.bolshako@mail.ru
 * **GitHub** : [rubylnic](https://github.com/rubylnic)
+* **LinkedIn** : (https://www.linkedin.com/in/ksenia-bolshakova-b2a5ab252/)
 
 ## About me
 I am 25 years old and I've been a front-end developer since 2019, I'm good at adaptive layout, html, CSS and js. I'm actively learning and practicing react and typescript respectively. Before starting my frontend career I had been an English teacher for over 5 years (abroad as well), so it's not a problem for me to communicate in English.
